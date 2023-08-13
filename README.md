@@ -1,4 +1,4 @@
-### Hello. My name is Estevão Augusto
+## Hello. My name is Estevão Augusto
 
 ## Introduction
 
