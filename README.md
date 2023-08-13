@@ -1,11 +1,11 @@
 ## Hello. My name is Estevão Augusto
 
-## Introduction
-
-## My Social media/Contacts
-
-## Projects/Learning
-
+### Introduction
+  This is the place I will be sending projects and stuff. Either it be personal, academic or professional.
+### My Social media/Contacts
+  Linkedin: https://www.linkedin.com/in/estev%C3%A3o-augusto-fonseca-santos-a61792280/
+### Projects/Learning
+  Currently learning C++.
 <!--
 **EstevaoAugusto/EstevaoAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
