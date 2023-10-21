@@ -1,7 +1,9 @@
 ## Hello. My name is Estevão Augusto
 
 ## Introduction
-  This is the place I will be sending projects and stuff. Either it be personal, academic or professional.
+  I am 18 years old and I'm currently studying Computer Science. It's pretty neat.
+  
+  Most of the projects commited here are either personal, academic or professional. So feel free to check them out!
 ## My Social media/Contacts
   Linkedin: https://www.linkedin.com/in/estev%C3%A3o-augusto-fonseca-santos-a61792280/
 ## Projects/Learning
