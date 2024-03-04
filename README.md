@@ -1,7 +1,7 @@
 ## Hello. My name is Estevão Augusto
 
 ## Introduction
-  I am 18 years old and I'm currently studying Computer Science. It's pretty neat.
+  I am 19 years old and I'm currently studying Computer Science. It's pretty neat.
   
   Most of the projects commited here are either personal, academic or professional. So feel free to check them out!
 ## My Social media/Contacts
