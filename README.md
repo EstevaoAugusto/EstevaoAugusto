@@ -2,16 +2,16 @@
 
 ## Introduction
   I am 19 years old and I'm currently studying Computer Science. It's pretty neat.
+  I'm from Brazil by the way!
   
   Most of the projects commited here are either personal, academic or professional. So feel free to check them out!
 ## My Social media/Contacts
   Linkedin: https://www.linkedin.com/in/estev%C3%A3o-augusto-fonseca-santos-a61792280/
-## Projects/Learning
-  Currently learning C++.
-
+  
 ## Languages
 <div>
-  HTML, CSS, Javascript and C++
+  As of currently my knowledge of programming languages is rather limited. I may known a thing or two. But I am not a master at any.
+  Thinking about mastering C++, Python and React. So that at the very least I have an area of knowledge I can rely on. 
   
 </div>
 
